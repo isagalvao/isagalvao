@@ -20,7 +20,6 @@
   </a> 
   
   ##
-
   ![Snake animation](https://github.com/isagalvao/isagalvao/blob/main/github-contribution-grid-snake.svg)
 
 </div>
